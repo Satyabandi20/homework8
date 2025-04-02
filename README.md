@@ -76,4 +76,4 @@ The project leverages **GitHub Actions** for continuous integration and continuo
 
 ---
 
-Thank you for checking out this project! Feel free to explore the code and Docker images. If you have any questions, feel free to reach out.
+Thank you for checking out this project! Feel free to explore the code and Docker images. If you have any questions, feel free to reach out
